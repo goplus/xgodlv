@@ -1,11 +1,11 @@
-gopdlv - debugger for Go/Go+
+xgodlv - debugger for Go/XGo
 ======
-[![Build Status](https://github.com/goplus/gopdlv/actions/workflows/go.yml/badge.svg)](https://github.com/goplus/gopdlv/actions/workflows/go.yml)
-[![GitHub release](https://img.shields.io/github/v/tag/goplus/gopdlv.svg?label=release)](https://github.com/goplus/gopdlv/releases)
-[![Language](https://img.shields.io/badge/language-Go+-blue.svg)](https://github.com/goplus/gop)
+[![Build Status](https://github.com/goplus/xgodlv/actions/workflows/go.yml/badge.svg)](https://github.com/goplus/xgodlv/actions/workflows/go.yml)
+[![GitHub release](https://img.shields.io/github/v/tag/goplus/xgodlv.svg?label=release)](https://github.com/goplus/xgodlv/releases)
+[![Language](https://img.shields.io/badge/language-XGo-blue.svg)](https://github.com/goplus/xgo)
 
-`gopdlv` is a debugger for the Go/Go+ programming language.
+`xgodlv` is a debugger for the Go/Go+ programming language.
 
 ## How to install
 
-gop install github.com/goplus/gopdlv@[![latest](https://img.shields.io/github/v/tag/goplus/gopdlv.svg?label=)](https://github.com/goplus/gopdlv/releases)
+xgo install github.com/goplus/xgodlv@[![latest](https://img.shields.io/github/v/tag/goplus/xgodlv.svg?label=)](https://github.com/goplus/xgodlv/releases)
