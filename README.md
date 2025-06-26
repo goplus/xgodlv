@@ -4,7 +4,7 @@ xgodlv - debugger for Go/XGo
 [![GitHub release](https://img.shields.io/github/v/tag/goplus/xgodlv.svg?label=release)](https://github.com/goplus/xgodlv/releases)
 [![Language](https://img.shields.io/badge/language-XGo-blue.svg)](https://github.com/goplus/xgo)
 
-`xgodlv` is a debugger for the Go/Go+ programming language.
+`xgodlv` is a debugger for the Go/XGo programming language.
 
 ## How to install
 
