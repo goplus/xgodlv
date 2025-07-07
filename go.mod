@@ -2,7 +2,7 @@ module github.com/goplus/xgodlv
 
 go 1.21
 
-require github.com/go-delve/delve v1.22.0
+require github.com/go-delve/delve v1.25.0
 
 require (
 	github.com/cilium/ebpf v0.11.0 // indirect
@@ -31,4 +31,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/go-delve/delve => github.com/goplus/delve v1.21.10-0.20250630043009-e3030de51593
+replace github.com/go-delve/delve => github.com/goplus/delve v1.25.7
